@@ -4,4 +4,4 @@
 
 <font color="green">**前端页面展示:**</font>
 
-​	![image-20250113231728987](C:\Users\Y_hm\AppData\Roaming\Typora\typora-user-images\image-20250113231728987.png)
+​	![image-20250113231728987](https://github.com/Yan-huimin/HTML-CSS-JS/blob/main/web.png)
